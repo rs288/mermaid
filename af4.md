@@ -33,3 +33,32 @@ graph TD
     G --> G2[Analista de Datos]
     G --> G3[Desarrollador de Base de Datos]
 ```
+
+```mermaid
+graph TD
+    A[Problema: Ineficiencia en el área de informática] --> B[Roles y Responsabilidades]
+    A --> C[Comunicación]
+    A --> D[Recursos Humanos]
+    A --> E[Procesos]
+    A --> F[Capacitación]
+
+    B --> B1[Roles poco definidos]
+    B --> B2[Superposición de funciones]
+    B --> B3[Falta de liderazgo]
+
+    C --> C1[Canales de comunicación ineficaces]
+    C --> C2[Falta de reuniones regulares]
+    C --> C3[Desconocimiento de roles]
+
+    D --> D1[Falta de personal adecuado]
+    D --> D2[Alta rotación de personal]
+    D --> D3[Inadecuada distribución de tareas]
+
+    E --> E1[Flujos de trabajo ineficientes]
+    E --> E2[Documentación deficiente]
+    E --> E3[Prioridades no claras]
+
+    F --> F1[Falta de formación continua]
+    F --> F2[Desactualización en tecnologías]
+    F --> F3[Inexistencia de un plan de carrera]
+```
